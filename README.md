@@ -41,7 +41,7 @@ Check out the live demo here: [HubHive Live Demo](https://your-live-demo-url.com
 ## Features
 
 - **User Authentication and Authorization**: Secure login, registration, and role-based access.
-- **Job Search and Filtering**: Find jobs by Jobtitle, salary, and companyName.
+- **Job Search and Filtering**: Find jobs by Jobtitle, salary, and companyName and jobCategory.
 - **Job Application Tracking**: save jobs, track applications, and monitor status.
 - **Resume Management**: Upload and manage resumes.
 - **Profile Management**: Update user profiles, change password and delete Account,save jobs.
