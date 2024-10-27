@@ -93,7 +93,8 @@ Ensure you have the following installed:
 2.  **Install Dependencies for Both Frontend and Backend:**
     npm install
 3.  **Enviroment Configuration:**
-4.  **In the root directory, create a .env file and add the following variables:**
+4.  **create a .env file and add the following variables:**
+     <hr>
      MONGO_URI=<your_mongodb_connection_string>
     JWT_SECRET=<your_jwt_secret>
    JWT_EXPIRES_IN=<token_expiration_time>
@@ -101,13 +102,14 @@ Ensure you have the following installed:
   CLOUDINARY_API_KEY=<your_cloudinary_api_key>
  CLOUDINARY_API_SECRET=<your_cloudinary_api_secret>
  PORT=" "  # Backend server port, adjust if needed
-5. **Start the Development Servers:**
+ <hr>
+6. **Start the Development Servers:**
     This command will run both the frontend and backend servers simultaneously:
        npm run dev
      The frontend will be accessible at http://localhost:5173.
       The backend will be accessible at http://localhost:portNumber (or the specified PORT in .env)
    
-6. **Contributing:**
+7. **Contributing:**
  Contributions are welcome! Feel free to submit issues, request new features, or create pull requests.
 
 1. **Fork the repository.**
