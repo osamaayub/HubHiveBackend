@@ -78,6 +78,7 @@ Check out the live demo here: [HubHive Live Demo](https://your-live-demo-url.com
 ### Prerequisites
 
 Ensure you have the following installed:
+-  **React.js**:[React](https://react.dev)
 - **Node.js**: [Download from nodejs.org](https://nodejs.org)
 - **MongoDB**: Use MongoDB Atlas or a local MongoDB instance. [Setup MongoDB](https://www.mongodb.com/)
 - **Cloudinary Account**: [Sign up at cloudinary.com](https://cloudinary.com)
