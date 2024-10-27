@@ -41,10 +41,10 @@ Check out the live demo here: [HubHive Live Demo](https://your-live-demo-url.com
 ## Features
 
 - **User Authentication and Authorization**: Secure login, registration, and role-based access.
-- **Job Search and Filtering**: Find jobs by title, location, and other criteria.
-- **Job Application Tracking**: Bookmark jobs, track applications, and monitor status.
-- **Resume Management**: Upload and manage multiple resumes.
-- **Profile Management**: Update user profiles.
+- **Job Search and Filtering**: Find jobs by Jobtitle, salary, and companyName.
+- **Job Application Tracking**: save jobs, track applications, and monitor status.
+- **Resume Management**: Upload and manage resumes.
+- **Profile Management**: Update user profiles, change password and delete Account,save jobs.
 - **Admin Dashboard**: Manage users, jobs, and applications.
 - **Job Posting**: Employers can post job openings.
 - **Responsive Design**: Optimized for mobile, tablet, and desktop views.
