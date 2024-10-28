@@ -104,7 +104,7 @@ Ensure you have the following installed:
     CLOUDINARY_CLOUDNAME=""
    CLOUDINARY_API_SECRET=""
    PORT=" "
-```bash
+ ```
  <hr>
 5. **Start the Development:**
        npm run dev
