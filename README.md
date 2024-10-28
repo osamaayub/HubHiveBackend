@@ -97,12 +97,14 @@ Ensure you have the following installed:
 4.  **Enviroment Configuration:**
   **create a .env file and add the following variables:**
      <hr>
-  MongoDB_URI=""
-  JWT_SECRET=""
-  JWT_SECRET_EXPIRIES_IN=""
-  CLOUDINARY_CLOUDNAME=""
- CLOUDINARY_API_SECRET=""
- PORT=" "  # Backend server port
+   ```bash
+    MongoDB_URI=""
+    JWT_SECRET=""
+   JWT_SECRET_EXPIRIES_IN=""
+    CLOUDINARY_CLOUDNAME=""
+   CLOUDINARY_API_SECRET=""
+   PORT=" "
+```bash
  <hr>
 5. **Start the Development:**
        npm run dev
