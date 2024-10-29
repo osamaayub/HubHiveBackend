@@ -100,10 +100,11 @@ Ensure you have the following installed:
    ```bash
     MongoDB_URI=""
     JWT_SECRET=""
-   JWT_SECRET_EXPIRIES_IN=""
+    JWT_SECRET_EXPIRIES_IN=""
     CLOUDINARY_CLOUDNAME=""
-   CLOUDINARY_API_SECRET=""
-   PORT=" "
+    CLOUDINARY_API_SECRET=""
+    CLOUDINARY_API_KEY=""
+    PORT=" "
  ```
  <hr>
 5. **Start the Development:**
