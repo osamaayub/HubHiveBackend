@@ -1,7 +1,6 @@
 node_modules
 .env
-
-config/config.env
+config.env
 # Logs
 *.log
 npm-debug.log*
